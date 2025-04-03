@@ -86,7 +86,12 @@ button {
 .my-name {
     font-weight: 400;
     font-size: large;
+    color: black;
 
+}
+
+p {
+    color: rgb(94, 93, 93);
 }
 
 .container3{
@@ -116,8 +121,9 @@ h4 {
 }
 
 .flex-2 {
-    font-size: medium;
-    font-weight: 100;
+    font-size: larger;
+    font-weight: 300;
+    color: black;
 }
 
 .flex:hover {
